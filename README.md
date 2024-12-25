@@ -1,4 +1,4 @@
-# Hi, I'm Abishekh
+# Hi, I'm Abishek,
 
 I'm a **Software Engineer** with a passion for **creative problem-solving**. Based in Austin, TX, I thrive on the vibrant tech scene, the rich culture, and the exhilarating drives through the Texas Hill Country.
 
@@ -26,24 +26,15 @@ I'm a **Software Engineer** with a passion for **creative problem-solving**. Bas
 | 4    | Robotics | 
 | 5    | Software Architecture | 
 
-## Projects
+## Work
 
-Here are some of my notable projects:
+Here are some of my notable work areas I've contributed to:
 
 - **Project Name:** [Brief Description] - [Link to Repository]
 - **Project Name:** [Brief Description] - [Link to Repository]
 
 ## Connect with Me
+- **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/abishekh/)]
+- **Webpage:** [[My Page](https://abishekh.github.io/)]
 
-- **GitHub:** [Your GitHub Username]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email Address]
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
-
-## Latest Blog Posts
-
-- [Blog Post Title](Link to Blog Post)
-- [Blog Post
