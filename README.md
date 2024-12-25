@@ -26,13 +26,6 @@ I'm a **Software Engineer** with a passion for **creative problem-solving**. Bas
 | 4    | Robotics | 
 | 5    | Software Architecture | 
 
-## Work
-
-Here are some of my notable work areas I've contributed to:
-
-- **Project Name:** [Brief Description] - [Link to Repository]
-- **Project Name:** [Brief Description] - [Link to Repository]
-
 ## Connect with Me
 - **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/abishekh/)]
 - **Webpage:** [[My Page](https://abishekh.github.io/)]
